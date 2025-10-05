@@ -5,14 +5,12 @@
 ## 👨‍💻 About Me
 I’m a **Full Stack Web Developer** specializing in **MERN Stack** and **Next.js**, passionate about building **scalable**, **user-centric**, and **modern web applications**.  
 I enjoy crafting full-stack solutions, working with **real-time systems**, **REST APIs**, and **secure authentication flows**.  
-Recently, I’ve been exploring **AI & Agentic Systems** using **LangChain**, **LangGraph**, and **workflow automation tools**.
 
 ---
 
 ## 🧠 Summary
 💡 Full Stack & Next.js Developer with hands-on experience in creating **end-to-end web solutions**.  
 💡 Skilled in **frontend development**, **backend APIs**, and **real-time communication** using modern frameworks.  
-💡 Experienced with **cloud deployments**, **Dockerized environments**, and **AI-integrated systems**.  
 
 ---
 
