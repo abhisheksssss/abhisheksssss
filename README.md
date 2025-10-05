@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=Hey%20there!%20I'm%20Abhishek%20Sahu%20🚀&fontSize=38&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20%26%20Next.js%20Developer%20%7C%20AI%20%26%20Agentic%20Systems%20Builder&descAlignY=58&descAlign=50&animation=fadeIn&fontAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hey%20there!%20I'm%20Abhishek%20Sahu%20🚀&fontSize=36&fontAlignY=35&fontAlign=50&fontColor=ffffff&desc=Full%20Stack%20%26%20Next.js%20Developer%20%7C%20AI%20%26%20Agentic%20%20Systems%20Builder&descAlign=50&descAlignY=60)
 
 
 ---
