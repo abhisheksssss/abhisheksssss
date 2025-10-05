@@ -41,7 +41,6 @@ I enjoy crafting full-stack solutions, working with **real-time systems**, **RES
 
 ![LangChain](https://img.shields.io/badge/LangChain-00BFA5?logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20Workflows-8A2BE2?logo=openai&logoColor=white)
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
