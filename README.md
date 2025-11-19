@@ -12,7 +12,7 @@ I enjoy crafting full-stack solutions, working with **real-time systems**, **RES
 ---
 
 ## 🧠 Summary
-💡 Full Stack & Next.js Developer with hands-on experience in creating **end-to-end web solutions**.  
+💡 Full Stack Developer with hands-on experience in creating **end-to-end web solutions**.  
 💡 Skilled in **frontend development**, **backend APIs**, and **real-time communication** using modern frameworks.  
 
 ---
