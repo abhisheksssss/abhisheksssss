@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=🚀+Crafting+scalable+web+solutions+with+modern+tech;🎨+Passionate+about+UI/UX+and+performance;⚡+Full+Stack+Developer+specializing+in+MERN+%26+Next.js;💡+Always+learning,+always+building" alt="Typing Animation" />
 </p>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhisheksahu&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/abhisheksahu?color=ec4899&label=Followers&style=flat-square" alt="GitHub Followers" />
-</div>
-</div>
 
 ---
 
@@ -147,12 +141,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality t
 
 
 <!-- Snake Animation -->
-<!-- Working Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake Animation](https://github.com/abhisheksahu/abhisheksahu/blob/output/github-contribution-grid-snake.svg)
 
 ⭐ **Thanks for stopping by!** ⭐
 
