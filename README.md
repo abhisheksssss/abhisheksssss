@@ -2,11 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=280&section=header&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff&text=👋%20Hey%20There!%20I'm%20Abhishek%20Sahu&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=68&descSize=22&descColor=fbbf24" />
 
-<!-- Animated Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=🚀+Crafting+scalable+web+solutions+with+modern+tech;🎨+Passionate+about+UI/UX+and+performance;⚡+Full+Stack+Developer+specializing+in+MERN+%26+Next.js;💡+Always+learning,+always+building" alt="Typing Animation" />
-</p>
-
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=abhisheksahu&color=8b5cf6&style=flat-square" alt="Profile views" />
+</div>
 
 ---
 
@@ -29,18 +27,24 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality t
 
 <div align="center">
 
+### **🌐 Frontend**
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux" />
-  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
+</div>
+
+<div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 
+### **⚡ Backend**
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
-  <br/>
+</div>
+
+<div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -48,20 +52,28 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality t
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
+### **🔧 Tools & DevOps**
 <div>
   <img src="https://skillicons.dev/icons?i=docker,git,github,aws,postman" />
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 <div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</div>
+
+### **🔮 Real-time & AI**
+<div>
   <img src="https://skillicons.dev/icons?i=socketio,graphql,redis" />
-  <br/>
+</div>
+
+<div>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-00BFA5?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 </div>
@@ -72,77 +84,61 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality t
 
 <div align="center">
 
-<!-- Stats Grid -->
+### 📈 GitHub Stats
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abhisheksahu&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=8b5cf6&text_color=ffffff&border_radius=15&include_all_commits=true&custom_title=My%20GitHub%20Stats" height="165" />
+      <img src="https://github-readme-stats.vercel.app/api?username=abhisheksahu&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=8b5cf6&hide_border=true&border_radius=15" height="165" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksahu&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=f97316&text_color=ffffff&border_radius=15&langs_count=8" height="165" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://streak-stats.demolab.com?user=abhisheksahu&theme=radical&hide_border=true&border_radius=15&background=0D1117&fire=ec4899&ring=8b5cf6&currStreakLabel=8b5cf6" height="165" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksahu&layout=compact&theme=radical&bg_color=0d1117&title_color=f97316&hide_border=true&border_radius=15" height="165" />
     </td>
   </tr>
 </table>
 
-<!-- Animated Contribution Graph -->
+### 🔥 GitHub Streak
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksahu&bg_color=0d1117&color=8b5cf6&line=f97316&point=ec4899&area=true&hide_border=true&radius=15&custom_title=My%20Contribution%20Activity" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=abhisheksahu&theme=radical&hide_border=true&border_radius=15&background=0D1117&fire=ec4899" width="60%" />
+</div>
+
+### 📊 Contribution Graph
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksahu&bg_color=0d1117&color=8b5cf6&line=f97316&point=ec4899&area=true&hide_border=true&radius=15" width="100%" />
 </div>
 
 </div>
 
 ---
----
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhisheksahu&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" />
+</div>
+
 ---
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-<!-- Animated Social Links -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/abhishek-sahu-58400a333/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=30" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:abhisheks97521@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/abhisheksahu">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sahu-58400a333/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheks97521@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhisheksahu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 </div>
 
 ---
 
-<!-- Animated Footer -->
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=150&section=footer&animation=twinkling" />
+<!-- Working Snake Animation -->
+![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=120&section=footer&animation=fadeIn" />
 
-<!-- Snake Animation -->
-![Snake Animation](https://github.com/abhisheksahu/abhisheksahu/blob/output/github-contribution-grid-snake.svg)
-
-⭐ **Thanks for stopping by!** ⭐
+**Thanks for visiting!** ✨
 
 </div>
