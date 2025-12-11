@@ -1,9 +1,8 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=280&section=header&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff&text=👋%20Hey%20There!%20I'm%20Abhishek%20Sahu&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=68&descSize=22&descColor=fbbf24" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=280&section=header&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff&text=👋%20Hey%20There!%20I'm%20Abhishek%20Sahu&desc=Full%20Stack%20Developer%20%7C%20&descAlignY=68&descSize=22&descColor=fbbf24" />
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=abhisheksahu&color=8b5cf6&style=flat-square" alt="Profile views" />
 </div>
 
 ---
