@@ -84,26 +84,24 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality t
 <div align="center">
 
 ### 📈 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abhisheksahu&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=8b5cf6&hide_border=true&border_radius=15" height="165" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksahu&layout=compact&theme=radical&bg_color=0d1117&title_color=f97316&hide_border=true&border_radius=15" height="165" />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksssss&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=8b5cf6&hide_border=true&border_radius=15" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksssss&layout=compact&theme=radical&bg_color=0d1117&title_color=f97316&hide_border=true&border_radius=15" height="165" alt="Top Languages" />
+</p>
+
 
 ### 🔥 GitHub Streak
-<div>
-  <img src="https://streak-stats.demolab.com?user=abhisheksahu&theme=radical&hide_border=true&border_radius=15&background=0D1117&fire=ec4899" width="60%" />
-</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhisheksssss&theme=radical&hide_border=true&border_radius=15&background=0D1117&fire=ec4899" width="60%" alt="GitHub Streak" />
+</p>
 
 ### 📊 Contribution Graph
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksahu&bg_color=0d1117&color=8b5cf6&line=f97316&point=ec4899&area=true&hide_border=true&radius=15" width="100%" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksssss&theme=tokyo-night&bg_color=0d1117&color=8b5cf6&line=f97316&point=ec4899&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+</p>
 
 </div>
 
@@ -112,10 +110,8 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality t
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhisheksahu&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhisheksssss&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
-
----
 
 ## 📫 Let's Connect
 
