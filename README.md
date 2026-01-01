@@ -134,6 +134,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality t
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=120&section=footer&animation=fadeIn" />
 
+
 **Thanks for visiting!** ✨
 
 </div>
