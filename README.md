@@ -1,8 +1,8 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=280&section=header&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff&text=👋%20Hey%20There!%20I'm%20Abhishek%20&desc=Full%20Stack%20Developer%20%20&descAlignY=68&descSize=22&descColor=fbbf24" />
-
-<!-- Profile Views Counter -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:linear,0,1e40af,3b82f6&height=240&section=header&fontSize=46&fontAlignY=40&fontColor=ffffff&animation=fadeIn&text=Abhishek%20Sahu&desc=Full%20Stack%20Developer&descAlignY=68&descSize=20&descColor=60a5fa" />
+   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=280&section=header&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff&text=👋%20Hey%20There!%20I'm%20Abhishek%20&desc=Full%20Stack%20Developer%20%20&descAlignY=68&descSize=22&descColor=fbbf24" /> -->
+  <!-- Profile Views Counter -->
 </div>
 
 ---
@@ -10,7 +10,7 @@
 ## ✨ About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
+<div style="height: 2px; background: linear-gradient(90deg, #1e40af, #3b82f6, #1e40af); width: 100%; margin: 20px 0; border-radius: 10px;"></div>
 </div>
 
 <div align="center">
